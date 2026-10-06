@@ -9,6 +9,7 @@ Live at <https://tapwrightlabs.github.io/> (GitHub Pages, served from the root o
 | Path | What it is |
 |---|---|
 | `index.html` | The studio: what we make and our games |
+| `floefury.html` | Floe Fury: the pitch, a gameplay video, how it plays, screenshots, and the link to play it on CrazyGames (`badpenguin.html` is the old address and redirects here) |
 | `smashadillo.html` | Smashadillo: the pitch, a gameplay video, how it plays, screenshots. Coming soon |
 | `privacy.html` | Privacy policy for this site and our web games |
 | `404.html` | Shown by GitHub Pages for any missing page |
